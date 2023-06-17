@@ -1,2 +1,2 @@
-# 1_paperStoneScissor_project
- 
+# 1_PaperStoneScissors_project
+ projects I've done after each learing phase
